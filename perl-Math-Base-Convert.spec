@@ -8,13 +8,13 @@
 Summary:	Math::Base::Convert - very fast base to base conversion
 Summary(pl.UTF-8):	Math::Base::Convert - bardzo szybka konwersja podstawy systemu liczenia
 Name:		perl-Math-Base-Convert
-Version:	0.08
+Version:	0.11
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b892b20f5dd028264b1934179dc91ae0
+# Source0-md5:	aed8356d8e2870ee1d27a7b6c5752714
 URL:		http://search.cpan.org/dist/Math-Base-Convert/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
