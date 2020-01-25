@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	Base-Convert
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Base::Convert - very fast base to base conversion
 Summary(pl.UTF-8):	Math::Base::Convert - bardzo szybka konwersja podstawy systemu liczenia
 Name:		perl-Math-Base-Convert
